@@ -1,6 +1,8 @@
 # FXMLExampleLabA
 Lab A for FXML example.
 
+Link to tutorial: https://docs.oracle.com/javafx/2/get_started/fxml_tutorial.htm 
+
 Joe Kowalski helped tremendously with this.
 
 This project creates a login screen that asks for a username and a password. There is a button that creates a prompt verifying the button was clicked.
